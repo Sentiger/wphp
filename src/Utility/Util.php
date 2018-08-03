@@ -18,4 +18,9 @@ class Util
     {
         echo "util...";
     }
+
+    public function say()
+    {
+        echo "testing..";
+    }
 }
